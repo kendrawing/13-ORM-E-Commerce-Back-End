@@ -19,7 +19,7 @@ E-commerce back end
 ## Links:
 
 * [GitHub Repo](https://github.com/kwing25/13-ORM-E-Commerce-Back-End)
-* [Live Site](#)
+* [Live Site](https://kwing25.github.io/13-ORM-E-Commerce-Back-End/)
 
 
 ## Status & Updates:
