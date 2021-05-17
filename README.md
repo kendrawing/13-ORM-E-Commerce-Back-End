@@ -1,4 +1,4 @@
-# (*In-Progress*) ORM-E-Commerce-Back-End
+# ORM-E-Commerce-Back-End
 
 
 ## Description:
@@ -14,6 +14,8 @@ E-commerce back end
 * Node
 * Inquirer
 * MySQL
+* Terminal & Command Line
+* VS Code
 
 
 ## Links:
@@ -24,8 +26,10 @@ E-commerce back end
 
 ## Status & Updates:
 
-> * **Initial Files...** 
+> * **Initial Files Uploaded Sunday May 16 2021** 
 > * *Project In-Progress*
 
 ---
-### Author: Kendra Wing 2021
+## Author: Kendra Wing 
+---
+##### &copy; 2021 Kendra Wing
